@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/edited-imprex/static/css/main.1319e149.css",
+    "main.js": "/edited-imprex/static/js/main.daab26c6.js",
+    "static/css/72.31c4de37.chunk.css": "/edited-imprex/static/css/72.31c4de37.chunk.css",
+    "static/js/72.58c214bb.chunk.js": "/edited-imprex/static/js/72.58c214bb.chunk.js",
+    "static/js/787.0c3d0d03.chunk.js": "/edited-imprex/static/js/787.0c3d0d03.chunk.js",
+    "static/js/484.a179a71a.chunk.js": "/edited-imprex/static/js/484.a179a71a.chunk.js",
+    "index.html": "/edited-imprex/index.html",
+    "main.1319e149.css.map": "/edited-imprex/static/css/main.1319e149.css.map",
+    "main.daab26c6.js.map": "/edited-imprex/static/js/main.daab26c6.js.map",
+    "72.31c4de37.chunk.css.map": "/edited-imprex/static/css/72.31c4de37.chunk.css.map",
+    "72.58c214bb.chunk.js.map": "/edited-imprex/static/js/72.58c214bb.chunk.js.map",
+    "787.0c3d0d03.chunk.js.map": "/edited-imprex/static/js/787.0c3d0d03.chunk.js.map",
+    "484.a179a71a.chunk.js.map": "/edited-imprex/static/js/484.a179a71a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1319e149.css",
+    "static/js/main.daab26c6.js"
+  ]
+}
